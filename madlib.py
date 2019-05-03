@@ -44,7 +44,7 @@ dependentVariable = "RAVLT A6 score"
 units = "pixels"
 buzzword4 = "machine_learning"
 supremeSocialogicalConcern = "women's_rights"
-nounFewPeopleHaveHeardOf = "dendate_gyrus"
+nounFewPeopleHaveHeardOf = "dentate_gyrus"
 
 
 
