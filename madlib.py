@@ -28,10 +28,10 @@ sciencyVerb = "conduct"
 buzzword = "data_science"
 
 #person 2
-number = ""
-buzzword2 = ""
-sexyAdjective = ""
-somethingYouDidntInvent = ""
+number = "101"
+buzzword2 = "network"
+sexyAdjective = "hawt"
+somethingYouDidntInvent = "the p-value"
 
 
 #person 3
