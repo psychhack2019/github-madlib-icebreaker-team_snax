@@ -41,10 +41,10 @@ scientistThatScoopsYourLabConstantly = "no one what"
 dependentVariable = "RAVLT A6 score"
 
 #person 4
-units = ""
-buzzword4 = ""
-supremeSocialogicalConcern = ""
-nounFewPeopleHaveHeardOf = ""
+units = "pixels"
+buzzword4 = "machine_learning"
+supremeSocialogicalConcern = "women's_rights"
+nounFewPeopleHaveHeardOf = "dendate_gyrus"
 
 
 
