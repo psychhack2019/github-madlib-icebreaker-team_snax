@@ -35,10 +35,10 @@ somethingYouDidntInvent = "the p-value"
 
 
 #person 3
-number2 = ""
-buzzword3 = ""
-scientistThatScoopsYourLabConstantly = ""
-dependentVariable = ""
+number2 = "11"
+buzzword3 = "big data"
+scientistThatScoopsYourLabConstantly = "no one what"
+dependentVariable = "RAVLT A6 score"
 
 #person 4
 units = ""
